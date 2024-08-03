@@ -1,0 +1,10 @@
+ID: 1, Hiz: 104 km/h
+ID: 3, Hiz: 111 km/h
+ID: 2, Hiz: 43 km/h
+ID: 4, Hiz: 122 km/h
+ID: 6, Hiz: 158 km/h
+ID: 7, Hiz: 108 km/h
+ID: 8, Hiz: 25 km/h
+ID: 9, Hiz: 75 km/h
+ID: 10, Hiz: 201 km/h
+ID: 11, Hiz: 93 km/h
